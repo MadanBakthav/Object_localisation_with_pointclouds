@@ -24,3 +24,7 @@ Process flow:
 5. Do the postprocessing to get instances.
 6. Determine the pose of the objects from instances.
 7. Feed the poses in for-loop to perform pick and place action via xmlrpc communication with the robot.
+
+
+
+Disclaimer:  This is a work in progress. Therefore, it needs to be optimised and documented properly.
